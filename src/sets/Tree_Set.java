@@ -25,6 +25,8 @@ public class Tree_Set {
 		
 		System.out.println(set1); //Automatically print the values in ascending order
 		
+	
+		
 
 	}
 
